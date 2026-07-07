@@ -1,6 +1,6 @@
 db:
-  url: jdbc:postgresql://localhost:5433/hotel_reservas_db?currentSchema=reserva_hotel_schema
-  username: hotel_user
-  password: hotel123
+  url: jdbc:postgresql://localhost:5434/bd_reserva?currentSchema=reserva_schema
+  username: postgres
+  password: 123456
   maximum-pool-size: 5
   connection-timeout: 20000
