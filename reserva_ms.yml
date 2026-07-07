@@ -1,5 +1,5 @@
 db:
-  url: jdbc:postgresql://localhost:5434/hotel_reservas_db?currentSchema=reserva_schema
+  url: jdbc:postgresql://localhost:5433/hotel_reservas_db?currentSchema=reserva_schema
   username: hotel_user
   password: hotel123
   maximum-pool-size: 5
